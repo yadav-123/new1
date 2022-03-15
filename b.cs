@@ -5,7 +5,7 @@ class name
 {
 public static void Main(string[] args)
 {
-	Console.WriteLine("trying ");
+	Console.WriteLine("done ");
 	
 }
 }
